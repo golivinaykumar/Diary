@@ -1,0 +1,43 @@
+@CHARSET "ISO-8859-1";
+#header {
+    width: 90%;
+    background-color: red;
+    height: 30px;
+}
+
+#container {
+    width: 1000px;
+    background-color: #ffcc33;
+    margin: auto;
+}
+#mainSidebar {
+    width: 300px;
+    float: left;
+    height: 600px;
+       
+}
+#mainContent {
+   background-color:gray;
+    float: left;
+
+}
+#third{
+	width:200px;
+
+	 padding: 20px 100px;
+	
+}
+#fourth{
+	
+	width:600px;
+	
+	background-color: #408080;
+}
+#clear {
+    clear: both;
+}
+.promoTitleElement{
+width : 100px;
+display: inline; 
+margin:0;
+}
